@@ -278,14 +278,26 @@ body {
 }
 
 .slider img {
-  width: 100%;
-  height: auto;
+  width: auto;
+  height: 112vh;
   opacity: 0;
   position: absolute;
   top: 0;
   left: 0;
   transition: opacity 2s ease-in-out;
-  /* Reduzi o tempo de transição para 0.5 segundos */
+
+}
+
+@media (max-width: 1300px) {
+  .slider img{
+    left: -700px;
+  }
+}
+
+@media (max-width: 700px) {
+  .slider img {
+    left: -900px;
+  }
 }
 
 .slider img::before {
