@@ -18,14 +18,14 @@
   <p align="center">
     A Fast Food website with optimized design, responsive menus, and reservation features, emphasizing core functionalities for food platforms.
     <br />
-    <a href="https://github.com/lucaswmlima/react-profile-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lucaswmlima/javascript-food-site"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://javascript-food-site.vercel.app">View Demo</a>
     ·
-    <a href="https://github.com/lucaswmlima/react-profile-app/issues">Report Bug</a>
+    <a href="https://github.com/lucaswmlima/javascript-food-site/issues">Report Bug</a>
     ·
-    <a href="https://github.com/lucaswmlima/react-profile-app/issues">Request Feature</a>
+    <a href="https://github.com/lucaswmlima/javascript-food-site/issues">Request Feature</a>
   </p>
 </div>
 
@@ -107,7 +107,7 @@ Downloading and installing Node.js and npm
 
 1. Navigate to the cloned directory
    ```
-   cd react-profile-app
+   cd javascript-food-site
    ```
 
 2. Start a local HTTP server using Node.js
@@ -132,7 +132,7 @@ Downloading and installing Node.js and npm
 - [x] Banner slider
 - [x] Responsiveness implementation
 
-See the [open issues](https://github.com/lucaswmlima/react-profile-app/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/lucaswmlima/javascript-food-site/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,16 +174,16 @@ Lucas William Martins Lima - lucaswilliamml@gmail.com - [LinkedIn][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/lucaswmlima/react-profile-app.svg?style=for-the-badge
-[contributors-url]: https://github.com/lucaswmlima/react-profile-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/lucaswmlima/react-profile-app.svg?style=for-the-badge
-[forks-url]: https://github.com/lucaswmlima/react-profile-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/lucaswmlima/react-profile-app.svg?style=for-the-badge
-[stars-url]: https://github.com/lucaswmlima/react-profile-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lucaswmlima/react-profile-app.svg?style=for-the-badge
-[issues-url]: https://github.com/lucaswmlima/react-profile-app/issues
-[license-shield]: https://img.shields.io/github/license/lucaswmlima/react-profile-app.svg?style=for-the-badge
-[license-url]: https://github.com/lucaswmlima/react-profile-app/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/lucaswmlima/javascript-food-site.svg?style=for-the-badge
+[contributors-url]: https://github.com/lucaswmlima/javascript-food-site/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/lucaswmlima/javascript-food-site.svg?style=for-the-badge
+[forks-url]: https://github.com/lucaswmlima/javascript-food-site/network/members
+[stars-shield]: https://img.shields.io/github/stars/lucaswmlima/javascript-food-site.svg?style=for-the-badge
+[stars-url]: https://github.com/lucaswmlima/javascript-food-site/stargazers
+[issues-shield]: https://img.shields.io/github/issues/lucaswmlima/javascript-food-site.svg?style=for-the-badge
+[issues-url]: https://github.com/lucaswmlima/javascript-food-site/issues
+[license-shield]: https://img.shields.io/github/license/lucaswmlima/javascript-food-site.svg?style=for-the-badge
+[license-url]: https://github.com/lucaswmlima/javascript-food-site/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/https://www.linkedin.com/in/lucaswmlima/
 [portfolio-url]: https://portfolio-lucaswilliam.vercel.app/#projects
